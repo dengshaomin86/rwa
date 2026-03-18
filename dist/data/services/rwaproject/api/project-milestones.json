@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "买入",
+    "value": "买入",
+    "seq": 1,
+    "benefitModel": "EQUITY_ORIENTED"
+  },
+  {
+    "id": 2,
+    "name": "确认份额",
+    "value": "1个工作日确认",
+    "seq": 2,
+    "benefitModel": "EQUITY_ORIENTED"
+  },
+  {
+    "id": 3,
+    "name": "分红",
+    "value": "按季分红",
+    "seq": 3,
+    "benefitModel": "EQUITY_ORIENTED"
+  },
+  {
+    "id": 4,
+    "name": "回购",
+    "value": "按需申赎",
+    "seq": 4,
+    "benefitModel": "EQUITY_ORIENTED"
+  }
+]

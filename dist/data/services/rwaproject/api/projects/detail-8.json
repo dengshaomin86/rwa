@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "prjCode": "PRJ-2025-008",
+  "prjName": "梵高画作NFT",
+  "description": "印象派艺术品数字化资产",
+  "minInvestment": 10000.0,
+  "isActive": true,
+  "createTime": "2025-03-10T10:15:00Z",
+  "updateTime": "2025-03-30T15:40:00Z",
+  "prjStatus": "UNDERWAY",
+  "prjType": "OTHER",
+  "benefitModel": "EQUITY_ORIENTED",
+  "benefit": "17%",
+  "icon": "http://8.148.84.186:8081/services/rwaproject/api/proof-files/download/QmVbtxYtuwbT5LDTZQFN7LnVqYrogQidt892ATFLsx3tx7"
+}

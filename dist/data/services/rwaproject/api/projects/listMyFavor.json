@@ -1,0 +1,34 @@
+[
+  {
+    "projectId": 3,
+    "prjCode": "PRJ-2025-003",
+    "prjName": "黄金储备基金",
+    "description": "国际标准金锭资产包",
+    "prjPublisher": null,
+    "prjPublisherCode": null,
+    "riskLevel": null,
+    "tokenName": "黄金储备通",
+    "tokenSymbol": "GRT",
+    "tokenValue": 420.6,
+    "currency": null,
+    "benefits": "12%",
+    "favorFlag": true,
+    "lables": "收益型-按期付息到期还本"
+  },
+  {
+    "projectId": 4,
+    "prjCode": "PRJ-2025-004",
+    "prjName": "华为供应链应收款",
+    "description": "科技企业应收账款证券化",
+    "prjPublisher": null,
+    "prjPublisherCode": null,
+    "riskLevel": null,
+    "tokenName": "华为应收通",
+    "tokenSymbol": "HART",
+    "tokenValue": 850.2,
+    "currency": null,
+    "benefits": "13%",
+    "favorFlag": true,
+    "lables": "权益型-按期分红"
+  }
+]

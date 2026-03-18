@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1001,
+    "userLogin": "admin",
+    "chainType": "ETHEREUM",
+    "walletAddress": "0xbE40435bF71B11e7b3389583408DDc1d966bF379",
+    "walletPinCode": "123456",
+    "addressLabel": null,
+    "isActive": true,
+    "privateKeyBase64": "0x0dd5540000b89f9db9d85dbc58436e6bd9d154f60e45b3b8040fe6f782021f79",
+    "secureMode": null,
+    "mnemonic": "debris,twice,verb,pencil,way,area,quantum,pluck,brave,sing,floor,educate",
+    "createdTime": null,
+    "lastSyncTime": null
+  },
+  {
+    "id": 1101,
+    "userLogin": "admin",
+    "chainType": "ETHEREUM",
+    "walletAddress": "0xe3136912d5aBA6E95CAe833bF77987827d9F4b9a",
+    "walletPinCode": "123456",
+    "addressLabel": null,
+    "isActive": true,
+    "privateKeyBase64": "0x8d5c864b1c368a5fdbe685cf70e9b27ea6f1dbd73941ee9fc2dcfabef41955e7",
+    "secureMode": null,
+    "mnemonic": "slender,shell,shallow,rose,prosper,home,grunt,avoid,apart,select,rose,want",
+    "createdTime": null,
+    "lastSyncTime": null
+  },
+  {
+    "id": 1102,
+    "userLogin": "admin",
+    "chainType": "ETHEREUM",
+    "walletAddress": "0xEE991E95eEFE9834846a3CCC320a5d6CC63de52B",
+    "walletPinCode": null,
+    "addressLabel": null,
+    "isActive": true,
+    "privateKeyBase64": "0x695c3caa91556c4a78960dc2571cccacf86a746e6bb6859b758938810da77cfe",
+    "secureMode": null,
+    "mnemonic": "dynamic,midnight,title,text,expand,banner,force,urban,dad,scorpion,uniform,discover",
+    "createdTime": null,
+    "lastSyncTime": null
+  },
+  {
+    "id": 1103,
+    "userLogin": "admin",
+    "chainType": "ETHEREUM",
+    "walletAddress": "testaddress1",
+    "walletPinCode": null,
+    "addressLabel": "test1| 外",
+    "isActive": false,
+    "privateKeyBase64": null,
+    "secureMode": null,
+    "mnemonic": null,
+    "createdTime": "2025-11-11T13:02:12.047972Z",
+    "lastSyncTime": null
+  }
+]

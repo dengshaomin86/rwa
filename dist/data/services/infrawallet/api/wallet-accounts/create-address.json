@@ -1,0 +1,14 @@
+{
+  "id": 1101,
+  "userLogin": "admin",
+  "chainType": "ETHEREUM",
+  "walletAddress": "0xe3136912d5aBA6E95CAe833bF77987827d9F4b9a",
+  "walletPinCode": null,
+  "addressLabel": null,
+  "isActive": true,
+  "privateKeyBase64": "0x8d5c864b1c368a5fdbe685cf70e9b27ea6f1dbd73941ee9fc2dcfabef41955e7",
+  "secureMode": null,
+  "mnemonic": "slender,shell,shallow,rose,prosper,home,grunt,avoid,apart,select,rose,want",
+  "createdTime": null,
+  "lastSyncTime": null
+}

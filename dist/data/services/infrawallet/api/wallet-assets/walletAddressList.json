@@ -1,0 +1,13 @@
+[
+  {
+    "address": "0xffA369393b2ca857400bF16feafBA160b9e4174A",
+    "chainType": "ETHEREUM",
+    "tokenName": "TetherUS",
+    "tokenSymbol": "USDT",
+    "balance": 10000.0,
+    "decimals": 100000,
+    "blockNumber": 0,
+    "createdTime": "2025-11-15T11:58:47.953921Z",
+    "updateTime": "2025-11-15T11:58:47.953926Z"
+  }
+]

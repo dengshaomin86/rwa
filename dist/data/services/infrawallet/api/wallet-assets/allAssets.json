@@ -1,0 +1,114 @@
+[
+  {
+    "address": "0x6564Aa76df86f5F9591B8bCB2074a616E4A3b0c8",
+    "chainType": "ETHEREUM",
+    "sumValue": 3161910.0,
+    "coinList": [
+      {
+        "address": "0x6564Aa76df86f5F9591B8bCB2074a616E4A3b0c8",
+        "chainType": "ETHEREUM",
+        "tokenName": "Ethereum",
+        "tokenSymbol": "ETH",
+        "balance": 1000.0,
+        "decimals": 18,
+        "blockNumber": 0,
+        "createdTime": "2025-11-15T11:50:53.883188Z",
+        "updateTime": "2025-11-15T11:50:53.883190Z"
+      }
+    ]
+  },
+  {
+    "address": "0xbE40435bF71B11e7b3389583408DDc1d966bF379",
+    "chainType": "ETHEREUM",
+    "sumValue": 3161910.0,
+    "coinList": [
+      {
+        "address": "0xbE40435bF71B11e7b3389583408DDc1d966bF379",
+        "chainType": "ETHEREUM",
+        "tokenName": "Ethereum",
+        "tokenSymbol": "ETH",
+        "balance": 1000.0,
+        "decimals": 18,
+        "blockNumber": 0,
+        "createdTime": "2025-11-08T17:31:32.749847Z",
+        "updateTime": "2025-11-08T17:31:32.749849Z"
+      }
+    ]
+  },
+  {
+    "address": "0xEE991E95eEFE9834846a3CCC320a5d6CC63de52B",
+    "chainType": "ETHEREUM",
+    "sumValue": 3161910.0,
+    "coinList": [
+      {
+        "address": "0xEE991E95eEFE9834846a3CCC320a5d6CC63de52B",
+        "chainType": "ETHEREUM",
+        "tokenName": "Ethereum",
+        "tokenSymbol": "ETH",
+        "balance": 1000.0,
+        "decimals": 18,
+        "blockNumber": 0,
+        "createdTime": "2025-11-10T07:48:23.196993Z",
+        "updateTime": "2025-11-10T07:48:23.196997Z"
+      }
+    ]
+  },
+  {
+    "address": "0xffA369393b2ca857400bF16feafBA160b9e4174A",
+    "chainType": "ETHEREUM",
+    "sumValue": 3.1639092e7,
+    "coinList": [
+      {
+        "address": "0xffA369393b2ca857400bF16feafBA160b9e4174A",
+        "chainType": "ETHEREUM",
+        "tokenName": "Ethereum",
+        "tokenSymbol": "ETH",
+        "balance": 10000.0,
+        "decimals": 100000,
+        "blockNumber": 0,
+        "createdTime": "2025-11-15T11:58:47.669699Z",
+        "updateTime": "2025-11-15T11:58:47.669707Z"
+      },
+      {
+        "address": "0xffA369393b2ca857400bF16feafBA160b9e4174A",
+        "chainType": "ETHEREUM",
+        "tokenName": "TetherUS",
+        "tokenSymbol": "USDT",
+        "balance": 10000.0,
+        "decimals": 100000,
+        "blockNumber": 0,
+        "createdTime": "2025-11-15T11:58:47.953921Z",
+        "updateTime": "2025-11-15T11:58:47.953926Z"
+      },
+      {
+        "address": "0xffA369393b2ca857400bF16feafBA160b9e4174A",
+        "chainType": "ETHEREUM",
+        "tokenName": "USD Coin",
+        "tokenSymbol": "USDC",
+        "balance": 10000.0,
+        "decimals": 100000,
+        "blockNumber": 0,
+        "createdTime": "2025-11-15T11:58:48.066426Z",
+        "updateTime": "2025-11-15T11:58:48.066431Z"
+      }
+    ]
+  },
+  {
+    "address": "0xe3136912d5aBA6E95CAe833bF77987827d9F4b9a",
+    "chainType": "ETHEREUM",
+    "sumValue": 3161910.0,
+    "coinList": [
+      {
+        "address": "0xe3136912d5aBA6E95CAe833bF77987827d9F4b9a",
+        "chainType": "ETHEREUM",
+        "tokenName": "Ethereum",
+        "tokenSymbol": "ETH",
+        "balance": 1000.0,
+        "decimals": 18,
+        "blockNumber": 0,
+        "createdTime": "2025-11-10T05:57:49.175609Z",
+        "updateTime": "2025-11-10T05:57:49.175612Z"
+      }
+    ]
+  }
+]

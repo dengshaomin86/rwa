@@ -1,0 +1,27 @@
+{
+  "userLogin": "admin",
+  "totalUsdValue": 44286732.0,
+  "assets": [
+    {
+      "tokenSymbol": "ETH",
+      "tokenName": "Ethereum",
+      "balance": 14000.0,
+      "usdPrice": 3161.91,
+      "usdValue": 44266740.0
+    },
+    {
+      "tokenSymbol": "USDC",
+      "tokenName": "USD Coin",
+      "balance": 10000.0,
+      "usdPrice": 1.0,
+      "usdValue": 10000.0
+    },
+    {
+      "tokenSymbol": "USDT",
+      "tokenName": "TetherUS",
+      "balance": 10000.0,
+      "usdPrice": 0.9992,
+      "usdValue": 9992.0
+    }
+  ]
+}

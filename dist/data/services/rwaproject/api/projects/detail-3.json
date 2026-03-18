@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "prjCode": "PRJ-2025-003",
+  "prjName": "黄金储备基金",
+  "description": "国际标准金锭资产包",
+  "minInvestment": 1000.0,
+  "isActive": true,
+  "createTime": "2025-02-01T13:45:00Z",
+  "updateTime": "2025-02-28T09:40:00Z",
+  "prjStatus": "UNDERWAY",
+  "prjType": "COMMODITY",
+  "benefitModel": "DEBT_ORIENTED_FQ",
+  "benefit": "12%"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1051,
+    "walletAccountId": 1001,
+    "tokenName": "Ethereum",
+    "tokenSymbol": "ETH",
+    "contractAddress": "0x0000000000000000000000000000000000000000",
+    "balance": 1000.0,
+    "decimals": 18,
+    "blockNumber": 0,
+    "createdTime": "2025-11-08T17:31:32.749847Z",
+    "updateTime": "2025-11-08T17:31:32.749849Z"
+  }
+]

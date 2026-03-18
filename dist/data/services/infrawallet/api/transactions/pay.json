@@ -1,0 +1,19 @@
+{
+  "id": 0,
+  "orderId": "string",
+  "txId": "string",
+  "outputUserLogin": "string",
+  "outputAddress": "string",
+  "outputChain": "string",
+  "inputAddress": "string",
+  "inputChain": "string",
+  "totalAmount": 0.1,
+  "fee": 0.1,
+  "netAmount": 0.1,
+  "currency": "ETH",
+  "txStatus": "COMMITING",
+  "comments": "string",
+  "describe": "string",
+  "createTime": "2025-11-15T15:32:29.648Z",
+  "updateTime": "2025-11-15T15:32:29.648Z"
+}

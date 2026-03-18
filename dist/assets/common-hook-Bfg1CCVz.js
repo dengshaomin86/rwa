@@ -1,0 +1,1 @@
+import{k as u,M as e}from"./index-B6SsfDij.js";function h(){const o=u(),r=o.back,n=s=>{o.push(s)};return{back:r,linkTo:n,linkToSearch:s=>{e.value.push("product-search"),n({name:"product-search",query:s})},signInJump:()=>{e.value.push("market","watchlist","holding","mine"),o.push("/")}}}export{h as u};

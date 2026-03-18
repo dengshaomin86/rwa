@@ -1,0 +1,20 @@
+[
+  {
+    "projectId": 8,
+    "prjCode": "PRJ-2025-008",
+    "prjName": "梵高画作NFT",
+    "description": "印象派艺术品数字化资产",
+    "prjPublisher": "腾讯幻鲸",
+    "prjPublisherCode": "TXHJ",
+    "riskLevel": null,
+    "tokenName": "梵高艺术NFT",
+    "tokenSymbol": "VAT",
+    "tokenValue": 1500,
+    "tokenCurrency": null,
+    "positionAmount": 19500,
+    "benifit": 0,
+    "benifitRate": 0,
+    "canRedeem": false,
+    "canSale": true
+  }
+]

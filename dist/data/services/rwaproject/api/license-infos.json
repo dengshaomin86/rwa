@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "licenseCode": "LIC-2025-001",
+  "filingAuthority": "上海市住建局",
+  "authorityOrgCode": "SH-ZJJ-001",
+  "tokenName": "浦东大厦资产通",
+  "tokenSymbol": "PDBT",
+  "tokenStandard": "ERC3643",
+  "tokenValue": 1200.5,
+  "currency": null,
+  "totalSupply": 1000000.0,
+  "minShare": null,
+  "minGuaranteValue": 1.2e9,
+  "decimals": 2,
+  "description": "商业地产资产代币",
+  "projectId": 1,
+  "prjPublisher": null,
+  "prjPublisherCode": null,
+  "riskLevel": null,
+  "regions": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "regionCode": "HK",
+      "regionName": "香港"
+    },
+    {
+      "id": 2,
+      "projectId": 1,
+      "regionCode": "UAS",
+      "regionName": "美国"
+    }
+  ],
+  "divideConfigs": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "divideCode": "FAIT"
+    },
+    {
+      "id": 2,
+      "projectId": 1,
+      "divideCode": "STABLECOIN"
+    }
+  ]
+}
